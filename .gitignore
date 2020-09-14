@@ -1,0 +1,5 @@
+./balena-sound/.DS_Store
+./balena-sound/dist
+./balena-sound/meta.json
+./balena-sound/landr-dist
+./balena-sound/*.traineddata
